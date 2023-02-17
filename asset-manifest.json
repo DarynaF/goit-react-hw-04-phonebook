@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarynaF/goit-react-hw-04-phonebook.git/static/css/main.7acaea2f.css",
+    "main.js": "/DarynaF/goit-react-hw-04-phonebook.git/static/js/main.07d3183d.js",
+    "index.html": "/DarynaF/goit-react-hw-04-phonebook.git/index.html",
+    "main.7acaea2f.css.map": "/DarynaF/goit-react-hw-04-phonebook.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/DarynaF/goit-react-hw-04-phonebook.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
